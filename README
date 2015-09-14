@@ -1,0 +1,1 @@
+This javascript files are parts of the web application that initially loaded data from Mongo DB but now loads data from Elasticsearch engine. These are the sample codes that I have produced during my work term at fypio.
